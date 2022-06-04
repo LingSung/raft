@@ -1,5 +1,7 @@
 # Raft
 
+My report: https://xtutx.notion.site/Raft-Report-7135de6f19b64c62bafe5865e2699cb5
+
 Author: Justin Chen <<mail@justin0u0.com>>
 
 # Goal
